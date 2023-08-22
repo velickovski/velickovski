@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. I'm an open-source profession and always develop in Java. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. My passion lies in harnessing the power of Java to build innovative cloud services that propel businesses into the future. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
