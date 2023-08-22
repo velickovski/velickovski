@@ -1,4 +1,4 @@
-### Welcome to LøvelyBuggies's Hut 👋
+### Welcome to AndrejVelickovski's hub 👋
 
 <a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
@@ -19,20 +19,16 @@
 <br />
 <br />
 
-Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. I'm an open-source profession and always develop in Java. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
-- 🌱 I’m currently learning TypeScripts and Python.
-- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position.
+- 👨🏻‍💻 I’m currently working on [[scikit-hep/hist](https://github.com/scikit-hep/hist)](https://github.com/stefanandonov/NP_code_export).
+- 🌱 I’m currently learning Java and C#.
+- 🤔 My research interests are with Cloud Services, Database Systems, etc.
+- 💼 I’m pursuing a Degree in FCSE.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
+- 📫 Please email via andrejvelickovski.35@gmail.com to reach me.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
-
-⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
