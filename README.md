@@ -19,7 +19,7 @@ Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰.
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [[scikit-hep/hist](https://github.com/scikit-hep/hist)](https://github.com/stefanandonov/NP_code_export).
+- 👨🏻‍💻 I’m currently working on Machine learning and Data Science 🧪
 - 🌱 I’m currently learning Python, Java, JS and Spring.
 - 🤔 My research interests are with Cloud Services, Database Systems, etc.
 - 💼 I’m pursuing a Degree in FCSE.
