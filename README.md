@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. "I am currently immersed in the dynamic field of data science, where I leverage my analytical skills to extract meaningful insights from data, while concurrently expanding my proficiency in Python programming for enhanced computational capabilities. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. I am currently immersed in the dynamic field of data science, where I leverage my analytical skills to extract meaningful insights from data, while concurrently expanding my proficiency in Python programming for enhanced computational capabilities. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
