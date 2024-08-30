@@ -19,7 +19,7 @@ Hi, I'm Andrej, a programmer from North Macedonia specializing in data science a
 
 **Current Status Quo**
 
-- I’m currently gaining more knowledge in Python :).
+- I’m currently gaining more knowledge in Python
 - I’m pursuing a Degree in FCSE (Faculty of Computer Science & Engineering - Skopje).
 - Please email via andrejvelickovski.35@gmail.com to reach me.
 
