@@ -13,16 +13,13 @@
 <br />
 <br />
 
-Hi, I'm Andrej 😉, a programmer 👨🏻‍💻 from North Macedonia 🇲🇰. I am currently immersed in the dynamic field of data science, where I leverage my analytical skills to extract meaningful insights from data, while concurrently expanding my proficiency in Python programming for enhanced computational capabilities. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Andrej, a programmer from North Macedonia specializing in data science and machine learning. I extract insights from data and enhance my Python skills for better computational capabilities. Outside of work, I enjoy good food and staying active with sports.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on Machine learning and Data Science 🧪
-- 🌱 I’m currently learning Python, Java, JS and Spring.
-- 🤔 My research interests are with Cloud Services, Database Systems, etc.
-- 💼 I’m pursuing a Degree in FCSE.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via andrejvelickovski.35@gmail.com to reach me.
+- I’m currently gaining more knowledge in Python :).
+- I’m pursuing a Degree in FCSE (Faculty of Computer Science & Engineering - Skopje).
+- Please email via andrejvelickovski.35@gmail.com to reach me.
 
